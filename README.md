@@ -1,4 +1,4 @@
-# sho
+# sho 🚀
 Show CLI is a grep alternative, entirely written in Rust. It all started as a rainy day coding, to learn more about the language Rust and its CLI libraries capabilities.
 ## Features in vision to implement in future
 - Highlighting the searched word in the sentence.
@@ -13,3 +13,5 @@ cargo build --release
 cd 
 nano .zshrc // or .bashrc
 alias sho='/home/your-user/route_to_dir/sho/target/debug/sho```
+
+---
