@@ -6,7 +6,8 @@ Show CLI is a grep alternative, entirely written in Rust. It all started as a ra
 - Advanced pattern matching for paths, url, etc.
 ## How to setup
 1. Install Rust-lang and Cargo in your machine. Visit https://rust-lang.org/installation for more details.
-2. ```git clone https://github.com/jithin-sunildas.com/sho.git
+```
+git clone https://github.com/jithin-sunildas.com/sho.git
 cd shoho
 cargo build --release
 cd 
