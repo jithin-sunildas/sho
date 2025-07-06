@@ -12,6 +12,6 @@ cd shoho
 cargo build --release
 cd 
 nano .zshrc // or .bashrc
-alias sho='/home/your-user/route_to_dir/sho/target/debug/sho```
-
+alias sho='/home/your-user/route_to_dir/sho/target/debug/sho
+```
 ---
